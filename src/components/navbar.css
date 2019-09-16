@@ -1,0 +1,9 @@
+.main_pic{
+    display: flex;
+
+}
+
+.main_pic img{
+    height: 200px;
+   
+}

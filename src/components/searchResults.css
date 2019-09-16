@@ -1,0 +1,5 @@
+.result_movies{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
